@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">P0115</string>
+    <string name="welcome">I am an internationalized application</string>
+</resources>
